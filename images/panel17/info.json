@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 87,
+    "height" : 87
+  }, {
+    "width" : 174,
+    "height" : 174
+  }, {
+    "width" : 348,
+    "height" : 348
+  }, {
+    "width" : 695,
+    "height" : 696
+  }, {
+    "width" : 1389,
+    "height" : 1392
+  }, {
+    "width" : 2778,
+    "height" : 2784
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2778,
+  "@id" : "https://mr4zvi.github.io/orozcomurals/images/panel17",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2784
+}
