@@ -171,6 +171,87 @@
             ]
         },
         {
+            "id": "https://mr4zvi.github.io/orozcomurals/images/panel1-migration/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "panel1-migration"
+                ]
+            },
+            "height": 2000,
+            "width": 1694,
+            "items": [
+                {
+                    "id": "https://mr4zvi.github.io/orozcomurals/images/panel1-migration/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mr4zvi.github.io/orozcomurals/images/panel1-migration/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mr4zvi.github.io/orozcomurals/images/panel1-migration/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 53,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 106,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 212,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 424,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 847,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1694,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1694,
+                                        "@id": "https://mr4zvi.github.io/orozcomurals/images/panel1-migration",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mr4zvi.github.io/orozcomurals/images/panel1-migration/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://mr4zvi.github.io/orozcomurals/images/panel15/canvas/",
             "type": "Canvas",
             "label": {
